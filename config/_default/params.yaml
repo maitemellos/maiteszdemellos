@@ -38,8 +38,8 @@ hugoblox:
     #pack: "Coffee"
     # Optional: Override theme pack colors
     colors:
-      primary: "#60A5FA" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "#94A3B8"
+      primary: "#E5E5E5" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "#A3A3A3"
       neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
