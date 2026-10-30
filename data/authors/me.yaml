@@ -11,8 +11,8 @@ name:
 postnominals:
   - PhD
   - MIEEE
-status:
-  icon: "☕️"
+#status:
+#  icon: "🪐"
 role: PhD Student in Physics
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
@@ -28,42 +28,46 @@ links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+  #- icon: brands/x
+   # url: https://x.com/example
+  #- icon: brands/github
+   # url: https://github.com/example
+  #- icon: brands/linkedin
+   # url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Extragalactic Astronomy
+  - Galaxy Evolution
+  - Active Galactic Nuclei
+  - Radio Galaxies
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD in Physics
+    institution: Universidade Federal de Santa Maria, Brazil
+    start: 2026 -
+    #end: 
+    #summary: |
+    #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    #button:
+    #  text: Download dissertation
+    #  url: /resume.pdf
+    #  icon: hero/arrow-down-tray
+  - degree: MSc in Physics
+    institution: Universidade Federal de Santa Maria, Brazil
+    start: 2024 - 2026
+    title: Ionized and Warm Molecular Gas Kinematics in the Central Region of the Radio Galaxy 3C 293
+    #end: 2015-05-31
+    title:
+  - degree: BS in Physics
+    institution: Universidade Federal de Santa Maria, Brazil
+    start: 2019 - 2024
+    #end: 2013-05-31
+    title: Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
+    
 
 experience:
   - role: Senior AI Research Scientist
