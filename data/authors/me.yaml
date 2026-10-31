@@ -62,59 +62,59 @@ education:
     title:
   - degree: BS in Physics
     institution: Universidade Federal de Santa Maria, Brazil
-    start: 2019 - 2024
-    #end: 2013-05-31
+    start: 2019 
+    end: 2024
     #title: 
     summary: |
       **Undergraduate thesis:** Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
     
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#experience:
+#  - role: Senior AI Research Scientist
+#    org: Meta AI
+#    start: 2020-01-01
+#    summary: |
+#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#    button:
+#      text: View portfolio
+#      url: /
+#      icon: hero/arrow-down-tray
+#  - role: AI Research Intern
+#    org: OpenAI
+#    start: 2019-06-01
+#    end: 2019-12-31
+#    summary: |
+#      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - label: Python
+#        level: 5
+#      - label: Machine Learning
+#        level: 5
+#      - label: Cloud Computing
+#        level: 4
+#  - name: Research & Communication
+#    items:
+#      - label: Academic Writing
+#        level: 5
+#      - label: Conference Presentations
+#        level: 4
+#      - label: Grant Proposals
+#        level: 4
 
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+#languages:
+#  - name: English
+#    level: 5
+#    label: Native
+#  - name: Spanish
+#    level: 4
+#    label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy
