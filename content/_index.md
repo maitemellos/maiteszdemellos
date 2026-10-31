@@ -78,8 +78,8 @@ sections:
               </a>
             </div>
           </div>
-      design:
-        columns: "1"
+        design:
+          columns: "1"
 
 
     
