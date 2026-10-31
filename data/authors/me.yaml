@@ -59,14 +59,17 @@ education:
   - degree: MSc in Physics
     institution: Universidade Federal de Santa Maria, Brazil
     start: 2024 - 2026
-    #title: Ionized and Warm Molecular Gas Kinematics in the Central Region of the Radio Galaxy 3C 293
+    summary: |
+      **Master's thesis:** Ionized and Warm Molecular Gas Kinematics in the Central Region of the Radio Galaxy 3C 293
     #end: 2015-05-31
     title:
   - degree: BS in Physics
     institution: Universidade Federal de Santa Maria, Brazil
     start: 2019 - 2024
     #end: 2013-05-31
-    #title: Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
+    #title: 
+    summary: |
+      **Undergraduate thesis:**Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
     
 
 experience:
