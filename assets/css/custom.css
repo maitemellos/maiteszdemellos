@@ -11,13 +11,15 @@
   line-height: 1.5 !important;
 }
 
-/* Cartões da seção Education */
+/* Education com aparência de currículo */
 #section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 > .group {
-  background: #1C1C1C !important;
+  background: transparent !important;
   background-image: none !important;
   border: none !important;
+  border-bottom: 1px solid #333333 !important;
+  border-radius: 0 !important;
   box-shadow: none !important;
-  border-radius: 8px !important;
+  padding: 20px 0 !important;
 }
 
 /* Education em uma coluna */
