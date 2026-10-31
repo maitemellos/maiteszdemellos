@@ -33,12 +33,13 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-   - block: markdown
+  - block: markdown
+  - block: resume-biography-3     
      content:
-       title: 'My Research'
-       subtitle: ''
-       text: |-
-        Text about my research
+      title: 'My Research'
+      subtitle: ''
+      text: |-
+       Text about my research
         Please reach out to collaborate! 
      design:
        columns: '1'
