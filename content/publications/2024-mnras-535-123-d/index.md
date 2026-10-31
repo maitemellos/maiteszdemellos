@@ -2,7 +2,7 @@
 title: Determining star formation rates in AGN hosts from strong optical emission
   lines
 authors:
-- Maitê S.~Z. de Mellos
+- Maitê S. Z. de Mellos
 - Rogemar A. Riffel
 - Jaderson S. Schimoia
 - Sandro B. Rembold
