@@ -63,7 +63,7 @@ sections:
       title: Projects
       text: |
         <div class="bah-project">
-          <img src="content/projects/bah/feature.png" alt="BAH Project Logo" class="bah-logo">
+          <img src="static/uploads/feature.png" alt="BAH Project Logo" class="bah-logo">
   
           <div class="bah-description">
             <h3>Blowing Star Formation Away in Active Galactic Nuclei Hosts (BAH)</h3>
