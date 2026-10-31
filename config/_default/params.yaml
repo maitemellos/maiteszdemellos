@@ -33,7 +33,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: light
+    mode: dark
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     #pack: "Coffee"
     # Optional: Override theme pack colors
@@ -46,14 +46,14 @@ hugoblox:
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      foreground: "#121212"
-      background: "#F5F5F5"
+      background: "#121212"
+      foreground: "#F5F5F5"
       header:
-        foreground: "#181818"
-        background: "#FFFFFF"
+        background: "#181818"
+        foreground: "#FFFFFF"
       footer:
-        foreground: "#121212"
-        background: "#CCCCCC"
+        background: "#121212"
+        foreground: "#CCCCCC"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
