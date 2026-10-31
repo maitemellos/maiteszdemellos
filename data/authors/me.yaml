@@ -49,7 +49,6 @@ education:
   - degree: PhD in Physics
     institution: Universidade Federal de Santa Maria, Brazil
     start: 2026 -
-    icon: None
     #end: 
     #summary: |
     #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
