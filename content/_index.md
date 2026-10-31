@@ -33,7 +33,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+ # - block: markdown
     content:
       title: 'My Research'
       subtitle: ''
@@ -48,15 +48,15 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
-  - block: collection
+ # - block: collection
     content:
       title: Recent Publications
       text: ''
@@ -75,7 +75,7 @@ sections:
           - events
     design:
       view: card
-  - block: collection
+#  - block: collection
     id: news
     content:
       title: Recent News
