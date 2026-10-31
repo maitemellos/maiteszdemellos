@@ -38,3 +38,8 @@
   padding: 0 !important;
   color: #D4D4D4 !important;
 }
+
+/* Esconde o nome na barra de navegação */
+.page-header .navbar-brand {
+  display: none !important;
+}
