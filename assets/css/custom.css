@@ -10,3 +10,20 @@
   font-weight: 400 !important;   /* Peso normal */
   line-height: 1.5 !important;
 }
+
+/* Cartões da seção Education */
+#section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 > .group {
+  background: #1C1C1C !important;
+  background-image: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 8px !important;
+}
+
+/* Education em uma coluna */
+#section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 {
+  grid-template-columns: 1fr !important;
+  gap: 16px !important;
+}
+
+
