@@ -2,7 +2,7 @@
 title: Blowing Star Formation Away in AGN Hosts (BAH). IV. Feeding and Feedback in
   3C 293 Observed with JWST NIRSpec
 authors:
-- Maitê S.~Z. de Mellos
+- Maitê S. Z. de Mellos
 - Rogemar A. Riffel
 - Gabriel L. Souza-Oliveira
 - Nadia L. Zakamska
