@@ -35,6 +35,10 @@ links:
     url: https://scholar.google.com/citations?user=E1U7KvwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-2184-1403
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Maite-De-Mellos?ev=hdr_xprf
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/9317067750420304
 
 interests:
   - Extragalactic Astronomy
