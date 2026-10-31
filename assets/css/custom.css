@@ -60,7 +60,7 @@
   align-items: center;
   gap: 40px;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 30px auto;
 }
 
@@ -100,15 +100,7 @@
   color: #a3a3a3;
 }
 
-/* Permitir que o conteúdo de Projects ocupe mais espaço */
-#projects .prose {
-  max-width: none !important;
-  width: 100%;
-}
 
-#projects .bah-project {
-  max-width: 1200px;
-}
 
 /* Mobile */
 
@@ -123,4 +115,37 @@
     width: 200px;
     height: 200px;
   }
+}
+
+
+/* Projects: remover restrições de largura do HugoBlox */
+
+#section-projects .prose,
+#section-projects .max-w-prose,
+#section-projects .max-w-3xl {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Aumentar largura do conteúdo da seção */
+
+#section-projects .container {
+  max-width: 1200px !important;
+}
+
+/* Layout do BAH */
+
+#section-projects .bah-project {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  width: 100%;
+  max-width: none !important;
+  margin: 30px auto;
+}
+
+#section-projects .bah-description {
+  flex: 1;
+  min-width: 0;
+  max-width: none !important;
 }
