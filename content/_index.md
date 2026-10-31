@@ -63,7 +63,7 @@ sections:
       title: Projects
       text: |
         <div class="bah-project">
-        <img src="/maiteszdemellos/uploads/feature.png" alt="BAH Project Logo" class="bah-logo">
+        <img src="/maiteszdemellos/uploads/image.png" alt="BAH Project Logo" class="bah-logo">
         <div class="bah-description">
         <h3>Blowing Star Formation Away in Active Galactic Nuclei Hosts (BAH)</h3>
         <p>This project aims to investigate AGN feeding and feedback processes in galaxies with strong molecular hydrogen emission, using observations from JWST/MIRI, JWST/NIRSpec, and ALMA.</p>
