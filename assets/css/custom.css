@@ -39,6 +39,13 @@
   color: #D4D4D4 !important;
 }
 
+/* Aumenta o espaço entre as colunas da biografia */
+@media (min-width: 768px) {
+  #section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-12 {
+    column-gap: 4rem !important;
+  }
+}
+
 /* Esconde o nome na barra de navegação */
 .page-header .navbar-brand {
   display: none !important;
