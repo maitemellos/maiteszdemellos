@@ -2,3 +2,11 @@
 .grid > .group .flex-shrink-0.w-12.h-12 {
   display: none !important;
 }
+
+
+/* Cargo acadêmico abaixo do nome */
+#section-resume-biography-3 p.text-2xl.font-semibold {
+  font-size: 1rem !important;    /* 16 px */
+  font-weight: 400 !important;   /* Peso normal */
+  line-height: 1.5 !important;
+}
