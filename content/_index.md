@@ -54,8 +54,20 @@ sections:
           - publications
         featured_only: false
     design:
-      view: article-grid
+      view: citation
       columns: 2
+
+- block: collection
+  id: projects
+  content:
+    title: Projects
+    filters:
+      folders:
+        - projects
+      featured_only: false
+  design:
+    view: showcase
+    columns: 2
  # - block: collection
  #   content:
  #     title: Recent Publications
