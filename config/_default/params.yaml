@@ -38,22 +38,22 @@ hugoblox:
     #pack: "Coffee"
     # Optional: Override theme pack colors
     colors:
-      primary: "#E5E5E5" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "#A3A3A3"
+      secondary: "#E5E5E5" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: "#A3A3A3"
       neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: "#121212"
-      foreground: "#F5F5F5"
+      foreground: "#121212"
+      background: "#F5F5F5"
       header:
-        background: "#181818"
-        foreground: "#FFFFFF"
+        foreground: "#181818"
+        background: "#FFFFFF"
       footer:
-        background: "#121212"
-        foreground: "#CCCCCC"
+        foreground: "#121212"
+        background: "#CCCCCC"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
