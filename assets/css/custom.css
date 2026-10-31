@@ -1,4 +1,4 @@
 /* Remove os ícones dos cartões de Education */
-.grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 > div > div.flex.items-start.gap-4 > div.flex-shrink-0 {
-  display: none;
+.grid > .group .flex-shrink-0.w-12.h-12 {
+  display: none !important;
 }
