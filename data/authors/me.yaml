@@ -46,6 +46,8 @@ education:
   - degree: PhD in Physics
     institution: Universidade Federal de Santa Maria, Brazil
     start: 2026
+    summary: |
+      **Supervisor:** Rogemar A. Riffel
     #end: 
     #summary: |
     #  Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
@@ -55,19 +57,21 @@ education:
     #  icon: hero/arrow-down-tray
   - degree: MSc in Physics
     institution: Universidade Federal de Santa Maria, Brazil
-    start: 2024
-    end: 2026
+    start: 2024 - 2026
+    #end: 2026
     summary: |
       **Master's thesis:** Ionized and Warm Molecular Gas Kinematics in the Central Region of the Radio Galaxy 3C 293
+      **Supervisor:** Rogemar A. Riffel
     #end: 2015-05-31
     title:
   - degree: BS in Physics
     institution: Universidade Federal de Santa Maria, Brazil
-    start: 2019 
-    end: 2024
+    start: 2019 - 2024
+    #end: 2024
     #title: 
     summary: |
       **Undergraduate thesis:** Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
+      **Supervisor:** Jaderson S. Schimoia
     
 
 #experience:
