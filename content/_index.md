@@ -58,28 +58,28 @@ sections:
       columns: 2
 
     - block: markdown
-    id: projects
-    content:
-      title: Projects
-      text: |
-        <div class="bah-project">
-          <img src="content/projects/bah/feature.png" alt="BAH Project Logo" class="bah-logo">
-
-          <div class="bah-description">
-            <h3>Blowing Star Formation Away in Active Galactic Nuclei Hosts (BAH)</h3>
-
-            <p>
-              This project aims to investigate AGN feeding and feedback processes in galaxies
-              with strong molecular hydrogen emission, using observations from JWST/MIRI, JWST/NIRSpec, and ALMA.
-            </p>
-
-            <a href="https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FheVageVoTt2RUF7uMLZlGw)&sort=date%20desc%2C%20bibcode%20desc" target="_blank" rel="noopener noreferrer">
-              View publications on NASA ADS →
-            </a>
+      id: projects
+      content:
+        title: Projects
+        text: |
+          <div class="bah-project">
+            <img src="content/projects/bah/feature.png" alt="BAH Project Logo" class="bah-logo">
+  
+            <div class="bah-description">
+              <h3>Blowing Star Formation Away in Active Galactic Nuclei Hosts (BAH)</h3>
+  
+              <p>
+                This project aims to investigate AGN feeding and feedback processes in galaxies
+                with strong molecular hydrogen emission, using observations from JWST/MIRI, JWST/NIRSpec, and ALMA.
+              </p>
+  
+              <a href="https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FheVageVoTt2RUF7uMLZlGw)&sort=date%20desc%2C%20bibcode%20desc" target="_blank" rel="noopener noreferrer">
+                View publications on NASA ADS →
+              </a>
+            </div>
           </div>
-        </div>
-    design:
-      columns: "1"
+      design:
+        columns: "1"
 
 
     
