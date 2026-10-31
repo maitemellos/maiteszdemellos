@@ -3,14 +3,14 @@ slug: me
 is_owner: true
 name:
   display: Maitê S. Z. de Mellos
-  given: Alex
-  family: Johnson
+  given: Maitê
+  family: de Mellos
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   #pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  #- PhD
+  #- MIEEE
 #status:
 #  icon: "🪐"
 role: PhD Student in Physics
@@ -26,7 +26,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:maite.mellos@acad.ufsm.br
     label: E-mail Me
   #- icon: brands/x
    # url: https://x.com/example
@@ -46,6 +46,7 @@ interests:
   - Radio Galaxies
 
 education:
+  - icon: None
   - degree: PhD in Physics
     institution: Universidade Federal de Santa Maria, Brazil
     start: 2026 -
