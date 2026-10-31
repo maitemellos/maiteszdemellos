@@ -502,7 +502,12 @@
         <div>
           <div class="flex items-center gap-4 mb-8">
             <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
-              {{ partial "functions/get_icon" (dict "name" "galaxy" "attributes" "class='w-6 h-6 text-primary-600 dark:text-primary-400'") }}
+              {{ $galaxy := resources.Get "media/icons/custom/galaxy.png" }}
+              {{ with $galaxy }}
+                <img src="{{ .RelPermalink }}"
+                     alt=""
+                     class="w-6 h-6 object-contain">
+              {{ end }}
             </div>
             {{ $interests_heading := i18n "interests" }}
             {{ $interests_heading_raw := index $headings "interests" }}
