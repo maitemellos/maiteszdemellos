@@ -50,3 +50,64 @@
 .page-header .navbar-brand {
   display: none !important;
 }
+
+
+
+/* BAH Project */
+
+.bah-project {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  max-width: 950px;
+  margin: 30px auto;
+}
+
+.bah-logo {
+  width: 260px;
+  height: 260px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.bah-description {
+  flex: 1;
+}
+
+.bah-description h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.bah-description p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #b0b0b0;
+  margin-bottom: 20px;
+}
+
+.bah-description a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.bah-description a:hover {
+  color: #a3a3a3;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .bah-project {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+
+  .bah-logo {
+    width: 200px;
+    height: 200px;
+  }
+}
