@@ -15,10 +15,7 @@ postnominals:
 #  icon: "🪐"
 role: PhD Student in Physics
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  bla bla bla
 
 affiliations:
   - name: Universidade Federal de Santa Maria
@@ -69,7 +66,7 @@ education:
     #end: 2013-05-31
     #title: 
     summary: |
-      **Undergraduate thesis:**Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
+      **Undergraduate thesis:** Investigating Star Formation Rates in Active Galaxies from the MaNGA Survey
     
 
 experience:
